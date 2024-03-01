@@ -1,3 +1,5 @@
+import React from 'react'; //it takes react from node_modules
+import ReactDOM from 'react-dom/client';
 
 //nested div and then h1 tag
 const parent = React.createElement(

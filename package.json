@@ -1,0 +1,31 @@
+{
+  "name": "react-amaze",
+  "version": "1.0.0",
+  "description": "This is react",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sarvgna-Bachchuwar/react-amaze.git"
+  },
+  "keywords": [],
+  "author": "Sarvgna",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sarvgna-Bachchuwar/react-amaze/issues"
+  },
+  "homepage": "https://github.com/Sarvgna-Bachchuwar/react-amaze#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 3 versions"
+  ]
+}
