@@ -4,6 +4,8 @@
   "description": "This is react",
   "main": "app.js",
   "scripts": {
+    "start": "parcel index1.html",
+    "build": "parcel build index1.html",
     "test": "jest"
   },
   "repository": {
